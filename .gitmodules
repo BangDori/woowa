@@ -1,0 +1,4 @@
+[submodule "week1_baseball"]
+	path = week1_baseball
+	url = https://github.com/BangDori/javascript-baseball-6
+	branch = BangDori
