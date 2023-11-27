@@ -10,3 +10,6 @@
 	path = week3_lotto
 	url = https://github.com/BangDori/javascript-lotto-6
 	branch = BangDori
+[submodule "week4_christmas_promotion"]
+	path = week4_christmas_promotion
+	url = https://github.com/BangDori/javascript-christmas-6-BangDori
