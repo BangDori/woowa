@@ -6,3 +6,7 @@
 	path = week2_racingcar
 	url = https://github.com/BangDori/javascript-racingcar-6
 	branch = BangDori
+[submodule "week3_lotto"]
+	path = week3_lotto
+	url = https://github.com/BangDori/javascript-lotto-6
+	branch = BangDori
